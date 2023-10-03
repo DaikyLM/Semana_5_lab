@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\gabriel\Documents\Cibertec\IA_Semana_05_Lab\.metadata\.plugins\org.eclipse.jdt.core
+22699913.index
+4149227086.index
+4184821631.index
+791594861.index
+1865797976.index
